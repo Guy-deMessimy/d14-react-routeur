@@ -1,4 +1,5 @@
 import './App.css';
+import React from 'react';
 import MyProfile from './components/MyProfile';
 import UserProfile from './components/UserProfile'
 import Home from './components/Home'
