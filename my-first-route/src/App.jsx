@@ -26,10 +26,10 @@ function App() {
               <Link to="/user-profile/Marie-Garde">Marie Github</Link>
             </li>
             <li>
-              <Link to="/user-profile/Gauthier-Lhomme/">Tim Github</Link>
+              <Link to="/user-profile/Gauthier-Lhomme/">Gauthier Github</Link>
             </li>
             <li>
-              <Link to="/user-profile/Timothée-Harleaux/">Gauthier Github</Link>
+              <Link to="/user-profile/Timothée-Harleaux/">Tim Github</Link>
             </li>
           </ul>
         </nav>
